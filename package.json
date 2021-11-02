@@ -1,0 +1,24 @@
+{
+  "name": "caps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-watch": "jest --watchAll",
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evan-woodworth/caps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evan-woodworth/caps/issues"
+  },
+  "homepage": "https://github.com/evan-woodworth/caps#readme",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
