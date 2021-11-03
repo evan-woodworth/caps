@@ -10,3 +10,7 @@ Github: https://github.com/evan-woodworth/caps/blob/main/README.md
 ## UML
 
 ![UML](./img/caps.png)
+
+## Testing
+
+![Socket Test](./img/socket-test.png)
